@@ -9,17 +9,17 @@ This repository contains the Python exercises for IaC module of PgDip in Computi
 
 ## How to run a script
 
-In order to run scripts in this repository and *if* the script does not have the bang shell at the beggining of it, please do python3 "script_file_name" in a Linux or Windows with python 3 installed or WSL.
+In order to run scripts in this repository and *if* the script does not have the bang shell at the beggining of it, please do python3 "script_file_name" in a Linux or Windows with python 3 installed or WSL. *If* the script has the bang shell at the beggining you can just run the script name, e.g. "./script_file_name" provided the OS can find the python executable.
 
 These were tested in Ubuntu 22.04 with python 3.12.3
 
 ## Scripts Documentation Links
 
-In this section, I link this readme to documentation links to of each script to keep this readme concise.
+In this section, I link this readme to documentation links to of each script to keep this readme concise. I used pydoc with Sphinx style. HTML Generated PyDocs can be found in this repository in Documentation/HTMLPyDocs
 
 | Script Name | Brief Description | Documentation Link |
 | ----------- | ----------------- | ------------------ |
-
+| [List1.py](Source/Lists1.py) | Examples of slicing of Lists, assignments and retrieval of elements | [Changes for List1.py](Documentation/ReadMeDocLinks/List1.md) |
 
 ## Examples
 

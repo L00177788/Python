@@ -22,6 +22,7 @@ fi
 # Using -p to create directories and subdirectories automatically
 mkdir -p Documentation/ReadMeDocLinks
 mkdir Documentation/References
+mkdir Documentation/HTMLPyDocs
 mkdir -p Source/modules
 mkdir Tests
 mkdir Examples
