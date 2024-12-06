@@ -11,7 +11,7 @@ Notes: Please read the script as it has comments on the code
 __author__ = "Jorge Dionisio <L00177788@atu.ie>"
 __date__ = "06 December 2024"
 __version__ = "06DEC24"
-__credits__ = "My wonderful wife for all the patience she has"
+__credits__ = "My wonderful wife for all the patience she has to put up with me"
 
 # Creating a list with multiple types inside it.
 my_list = [1,2,3,4,"A","B",8,9]
