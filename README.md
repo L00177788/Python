@@ -19,10 +19,10 @@ In this section, I link this readme to documentation links to of each script to 
 
 | Script Name | Brief Description | Documentation Link |
 | ----------- | ----------------- | ------------------ |
-| [List1.py](Source/Lists1.py) | Examples of slicing of Lists, assignments and retrieval of elements | [Changes for List1.py](Documentation/ReadMeDocLinks/List1.md) |
-| [List2.py](Source/Lists2.py) | Examples of concatenation of Lists, and a custom list that allows subtraction | [Changes for List2.py](Documentation/ReadMeDocLinks/List2.md) |
-| [List3.py](Source/Lists3.py) | Examples of Nested Lists | [Changes for List3.py](Documentation/ReadMeDocLinks/List3.md) |
-| [List4.py](Source/Lists4.py) | Examples on how Lists are mutable | [Changes for List4.py](Documentation/ReadMeDocLinks/List4.md) |
+| [List1.py](Source/Lists1.py) | Examples of slicing of Lists, assignments and retrieval of elements | [Changes for List1.py](Documentation/ReadMeDocLinks/Lists1.md) |
+| [List2.py](Source/Lists2.py) | Examples of concatenation of Lists, and a custom list that allows subtraction | [Changes for List2.py](Documentation/ReadMeDocLinks/Lists2.md) |
+| [List3.py](Source/Lists3.py) | Examples of Nested Lists | [Changes for List3.py](Documentation/ReadMeDocLinks/Lists3.md) |
+| [List4.py](Source/Lists4.py) | Examples on how Lists are mutable | [Changes for List4.py](Documentation/ReadMeDocLinks/Lists4.md) |
 
 ## Examples
 
